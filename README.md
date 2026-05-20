@@ -46,6 +46,4 @@ Multiple_GCFs_Berlin_Field_Experiment/
 │   ├── outputs/
 │   └── figures/
 │
-├── supplementary_tables/
-│
 └── README.md
