@@ -27,16 +27,6 @@ The main plant community responses analysed were:
 
 The project also includes a global grassland observational analysis assessing whether increasing numbers of GCFs exceeding low to intermediate intensity thresholds are associated with reduced plant productivity and vegetation cover worldwide.
 
-## Main research questions
-
-This repository supports analyses addressing the following questions:
-
-1. Do individual and multiple GCF treatments alter grassland plant community structure through time?
-2. Does increasing factor number cause stronger plant community responses than expected from single-factor effects?
-3. Does factor number explain variation in plant responses beyond factor identity and factor composition?
-4. Are factor-number effects observed in the field experiment also detectable in global grassland vegetation data?
-5. Can factor number be interpreted as a dimension of high-dimensional environmental perturbation?
-
 ## Repository contents
 
 The repository is organized around two main analysis workflows.
