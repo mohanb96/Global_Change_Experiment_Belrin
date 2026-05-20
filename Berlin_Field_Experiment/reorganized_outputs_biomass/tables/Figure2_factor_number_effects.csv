@@ -1,0 +1,11 @@
+"year","response","response_label","interaction_model","slope","ci_low","ci_high","n"
+2021,"biomass_jun","Biomass June","dominative",NA,NA,NA,0
+2021,"biomass","Biomass June+October","dominative",-0.00793438374641078,-0.028727820389268,0.012718449246886,60
+2022,"biomass_jun","Biomass June","dominative",-0.0334636769843558,-0.055127432644083,-0.0106402640972169,55
+2022,"biomass","Biomass June+October","dominative",-0.0314528941569979,-0.0519833042564625,-0.0111230502592409,54
+2023,"biomass_jun","Biomass June","dominative",0.0211924681415115,-0.010983906653502,0.0534963837557408,60
+2023,"biomass","Biomass June+October","dominative",0.0250650901991202,0.000168193740432256,0.049915608428066,60
+2024,"biomass_jun","Biomass June","dominative",0.00194103429876766,-0.0177002865438012,0.0224516306302951,60
+2024,"biomass","Biomass June+October","dominative",0.00271582264594831,-0.0169148879235535,0.0248242929591368,60
+2025,"biomass_jun","Biomass June","dominative",-0.0107162931735139,-0.030045287774057,0.0104810912487497,60
+2025,"biomass","Biomass June+October","dominative",-0.00542332975134893,-0.0263056995212405,0.0147632988860019,60
