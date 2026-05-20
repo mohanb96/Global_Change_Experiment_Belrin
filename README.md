@@ -2,7 +2,7 @@
 
 This repository contains data-processing and analysis code for the manuscript:
 
-**Multiple global change factors shape plant community responses in a field experiment and global grassland survey**
+**Multiple global change factors driving directional change in plant communities**
 
 The study investigates how increasing numbers of co-occurring global change factors (GCFs) affect grassland plant communities. We combine a multi-year field experiment in Berlin with a global grassland observational analysis to test whether factor number captures an additional dimension of ecosystem response under multidimensional environmental change.
 
